@@ -1,4 +1,4 @@
-# Contact Keeper API
+# Phone Book Full Stack App
 
 Please include a JWT Secret and a Database link in the config file before usage.
 
