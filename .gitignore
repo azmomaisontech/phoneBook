@@ -2,6 +2,8 @@ node_modules/
 
 /client/build/
 
+sheltered-peak-66101/
+
 .DS_Store
 /client/.env.local
 /client/.env.development.local
